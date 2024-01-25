@@ -1,0 +1,12 @@
+#!/bin/bash
+echo "Hello World"
+mkdir Task6
+cd Task6
+touch demo.txt
+ls-l
+cat demo.txt
+echo "Hello World" > demo.txt
+cat demo.txt
+echo "Current date and time: $(date)"
+
+
